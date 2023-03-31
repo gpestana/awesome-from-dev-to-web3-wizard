@@ -25,6 +25,9 @@ This Awsome list aims at providing tips, directions and project suggestions for 
 
 ## Layer 2 - ZK and others for scalability and privacy 
 
+## Web3 Database
+  ⤴️  [Polybase](https://polybase.xyz)
+
 ## DeFi and Crypto economics
 ### To read
   ⤴️  [Filecoin crypto economics](https://filecoin.io/2020-engineering-filecoins-economy-en.pdf)
